@@ -1,4 +1,4 @@
-8051-asm-src
+8051 ASM Programming
 ============
 
 Jimmy Lee 8051 course in July
