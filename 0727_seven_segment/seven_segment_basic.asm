@@ -1,5 +1,5 @@
 ;
-;  SEVEN_SEGMENT_BASIC.ASM (p.13)
+;  seven_segment_basic.asm (p.13)
 ;  2014/7/27
 ;  Leon_Huang
 ;

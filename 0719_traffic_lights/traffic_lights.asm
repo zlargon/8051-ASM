@@ -1,5 +1,5 @@
 ;
-;  TRAFFIC_LIGHTS.ASM (p.9)
+;  traffic_lights.asm (p.9)
 ;  2014/7/19
 ;  Leon_Huang
 ;

@@ -1,5 +1,5 @@
 ;
-;  THUNDERBOLT_LIGHTS.ASM (p.11)
+;  thunderbolt_lights.asm (p.11)
 ;  2014/7/19
 ;  Leon_Huang
 ;

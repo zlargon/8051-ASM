@@ -1,5 +1,5 @@
 ;
-;  HW3_THUNDERBOLT_LIGHTS.ASM
+;  homework3.asm
 ;  2014/7/20
 ;  Leon_Huang
 ;

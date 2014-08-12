@@ -1,5 +1,5 @@
 ;
-;  HW2_TRAFFIC_LIGHTS.ASM
+;  homework2.asm
 ;  2014/7/20
 ;  Leon_Huang
 ;

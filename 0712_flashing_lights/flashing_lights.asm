@@ -1,5 +1,5 @@
 ;
-;  FLASHING_LIGHTS.ASM (p.7)
+;  flashing_lights.asm (p.7)
 ;  2014/7/12
 ;  Leon_Huang
 ;
